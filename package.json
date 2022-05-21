@@ -1,0 +1,30 @@
+{
+  "name": "dasana",
+  "version": "1.0.0",
+  "description": "tool to take sqlite3 and/or csv from Plotly Dash to Asana",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "webpack": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Roth",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.17.12",
+    "nodemon": "^2.0.16",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
