@@ -1,5 +1,4 @@
 # Dasana
-<!-- ![real-work-labs-beach-ski-vacation screenshot](../master/images/screenshot.png?raw=true) -->
 ## Goal
 Application takes snippets from [Kapeli Dash](https://kapeli.com/dash), and converts them to tasks in Asana.
 ## Features
